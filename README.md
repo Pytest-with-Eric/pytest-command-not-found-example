@@ -1,5 +1,5 @@
 # Pytest Command Not Found Examples
-This repo contains the sample code for the article - pytest fixture autouse
+This repo contains the sample code for the article - [7 Simple Ways To Fix The "Pytest Command Not Found" Error](https://pytest-with-eric.com/introduction/pytest-command-not-found/)
 
 # Requirements
 * Python (3.11+)
